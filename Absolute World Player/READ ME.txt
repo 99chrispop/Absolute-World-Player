@@ -4,6 +4,6 @@ https://drive.google.com/drive/folders/1pl3Xhl6Qi8bHYSutQ3ZU5se6aYCM3hpK?usp=sha
 
 Then, drag all of the songs from "Absolute World EP" into the Absolute World Player folder (the folder containing the code for the GUI, "Absolute World.py").
 
-Then, run "Absolute World.py" to view the GUI.
+Finally, run "Absolute World.py" to view the GUI.
 
 Chris
